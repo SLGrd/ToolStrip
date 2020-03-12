@@ -1,0 +1,9 @@
+C:\Tutoriais\ToolBar\ToolBar\bin\Debug\ToolBar.exe.config
+C:\Tutoriais\ToolBar\ToolBar\bin\Debug\ToolBar.exe
+C:\Tutoriais\ToolBar\ToolBar\bin\Debug\ToolBar.pdb
+C:\Tutoriais\ToolBar\ToolBar\obj\Debug\ToolBar.FrmToolStrip.resources
+C:\Tutoriais\ToolBar\ToolBar\obj\Debug\ToolBar.Properties.Resources.resources
+C:\Tutoriais\ToolBar\ToolBar\obj\Debug\ToolStrip.csproj.GenerateResource.cache
+C:\Tutoriais\ToolBar\ToolBar\obj\Debug\ToolBar.exe
+C:\Tutoriais\ToolBar\ToolBar\obj\Debug\ToolBar.pdb
+C:\Tutoriais\ToolBar\ToolBar\obj\Debug\ToolStrip.csprojAssemblyReference.cache
